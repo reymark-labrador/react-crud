@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Config
+Update the server api in .env file:
+### `REACT_APP_BASE_API=https://YOUR_SERVER_API/api`
+
 ## Available Scripts
 
 In the project directory, you can run:
